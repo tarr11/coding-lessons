@@ -17,6 +17,7 @@ The goal of this class is to get everyone to understand what programming is, wha
 We are going to use Chat to communicate.  I will be available on chat when you need help.
 Everyone tries out Chat.
 Chat rules:
+
 * No abusive language, teasing, etc
 * Chat is for the class only
 
