@@ -22,6 +22,7 @@ Chat rules:
 
 ## Lesson: Javascript
 Javascript is a programming language that lets you build games and web pages.  Javascript is one of the languages we are going to learn.
+
 * You have to type something exactly as it appears to make it work.
 * You should learn how to copy / paste
 * Semicolons, parentheses, and whitespace
