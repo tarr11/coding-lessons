@@ -1,4 +1,4 @@
-# Lesson 1
+# Intro to coding with Javascript
 
 ## Overview
 The goal of this class is to get everyone to understand what programming is, what they want to do with it, and why it could be fun.  We'd like to spend most of the class actually writing code.
