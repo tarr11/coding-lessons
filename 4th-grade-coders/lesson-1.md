@@ -22,7 +22,9 @@ Chat rules:
 * Chat is for the class only
 
 ## Lesson: Javascript
-Javascript is a programming language that lets you build games and web pages.  Javascript is one of the languages we are going to learn.
+Javascript is a programming language that lets you build games and web pages.  
+
+Javascript is one of the languages we are going to learn.
 
 * You have to type something exactly as it appears to make it work.
 * You should learn how to copy / paste
@@ -30,9 +32,12 @@ Javascript is a programming language that lets you build games and web pages.  J
 
 ## Code Combat (45 minutes)
 We are going to spend the rest of the class on [Code Combat](http://codecombat.com) 
+![Code Combat](http://i.imgur.com/Ilv73R8.png)
+
+This will be a series of challenges that are designed to help you learn how to code in javascript.
 
 ## Review 
-Write down on your page what you learned today, and what you want to do next.
+Write down on a few sentences what you learned today, and what you want to do next.
 
 ## Homework
 Keep going on Code Combat!  Get as far as you can.  Keep practicing typing.  The faster you can type, the faster you can code.
