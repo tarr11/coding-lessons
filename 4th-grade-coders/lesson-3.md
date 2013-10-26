@@ -1,7 +1,7 @@
 # Lesson 3 
 
-## Lesson: Make a game with Scratch
-Let's talk about making a maze game
+## Lesson: 
+
 
 ## How do we design a game?
 
@@ -14,6 +14,6 @@ Write down on your page what you learned today, and what you want to do next.
 Sign in to Scratch.  Keep working through the lessons
 
 ## Next Week
-Let's make a simple game together!
+
 
 
