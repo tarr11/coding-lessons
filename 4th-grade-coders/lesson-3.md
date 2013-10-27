@@ -1,4 +1,4 @@
-# Scratch Challenges
+# #3 - Scratch Challenges
 
 ## Lesson: 
 
