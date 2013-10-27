@@ -13,14 +13,6 @@ The goal of this class is to get everyone to understand what programming is, wha
 * Go to [MVCoders Website](http://mvcodeclub.azurewebsites.net) and log in
 * Click on Lesson 1 (that's where this should be)
 
-## Intro to Chat system (10 minutes)
-We are going to use Chat to communicate.  I will be available on chat when you need help.
-Everyone tries out Chat.
-Chat rules:
-
-* No abusive language, teasing, etc
-* Chat is for the class only
-
 ## Lesson: Javascript
 Javascript is a programming language that lets you build games and web pages.  
 
