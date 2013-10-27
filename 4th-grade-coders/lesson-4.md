@@ -1,4 +1,4 @@
-# Building a Scratch Game Together 
+# #4 - Building a Scratch Game Together 
 
 ## Lesson: 
 
