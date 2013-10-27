@@ -1,4 +1,4 @@
-# Lesson 5 
+# Designing your own game
 
 ## Lesson: 
 
