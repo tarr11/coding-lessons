@@ -1,4 +1,4 @@
-# Building your game
+# #7 - Building your game
 
 ## Lesson: 
 
