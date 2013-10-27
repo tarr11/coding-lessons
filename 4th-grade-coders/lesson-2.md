@@ -1,4 +1,4 @@
-# Intro to Scratch
+# #2 - Intro to Scratch
 
 ## Lesson: Scratch
 Scratch is a programming language that lets you build games and animations.  Scratch is one of the languages we are going to learn.
