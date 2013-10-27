@@ -1,4 +1,4 @@
-# Building your own game
+# #6 - Building your own game
 
 ## Lesson: 
 
