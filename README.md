@@ -1,4 +1,4 @@
-coding-lessons
+Coding Lessons
 ==============
 
 A repository for all the coding lessons I am teaching
