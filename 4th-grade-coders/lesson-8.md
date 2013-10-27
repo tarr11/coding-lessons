@@ -1,4 +1,4 @@
-# Lesson 8 
+# Finishing your game
 
 ## Lesson: 
 
