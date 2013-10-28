@@ -7,7 +7,7 @@ The goal of this class is to get everyone to understand what programming is, wha
 * Get wifi working, Chrome installed
 * Go to [MVCoders Website](http://mvcodeclub.azurewebsites.net) and log in
 * Click on Lesson 1 (that's where this should be)
-* 
+
 ## Introduction (10 Minutes)
 * What is programming?
 * Why do we care about programming?
