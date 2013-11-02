@@ -1,21 +1,21 @@
 # #2 - Intro to Scratch
 
-# Watch this!
+# Watch this! (5 minutes)
 [12 year old app developer](http://www.ted.com/talks/thomas_suarez_a_12_year_old_app_developer.html)
 
 ## Lesson: Scratch
 Scratch is a programming language that lets you build games and animations.  Scratch is one of the languages we are going to learn.
-
-## Discussion
+ 
+## Discussion (10 minutes)
 Talk about Loops and Commands.
 * What is a command?  "do this"
 * What is a loop? "Keep doing this until I say stop"
 * What is a program? "Do this, then that, and then keep doing this until i say stop"
 
-## Setup
+## Setup (10 minutes)
 Setup our Scratch accounts so we can save our data.  Everyone creates an account.
 
-## Scratch (75 minutes)
+## Scratch (60 minutes)
 Talk about scratch.  Scratch lets you drag around puzzle pieces that can give a computer commands, make loops and combine them into programs.
 
 We are going to go through the first tutorial together.  Then, we are going to work on the effects and animations tutorials independently.  
