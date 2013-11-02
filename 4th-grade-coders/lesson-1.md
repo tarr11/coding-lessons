@@ -22,7 +22,8 @@ Javascript is one of the languages we are going to learn.
 
 * You have to type something exactly as it appears to make it work.
 * You should learn how to copy / paste
-* Semicolons, parentheses, and whitespace
+* Semicolons, parentheses, single quotes, double quotes,  whitespace
+* How do we insert new lines between rows?
 
 ## Code Combat (45 minutes)
 We are going to spend the rest of the class on [Code Combat](http://codecombat.com) 
