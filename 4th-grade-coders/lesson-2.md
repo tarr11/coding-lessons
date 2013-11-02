@@ -1,5 +1,8 @@
 # #2 - Intro to Scratch
 
+# Watch this!
+<iframe src="http://embed.ted.com/talks/thomas_suarez_a_12_year_old_app_developer.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 ## Lesson: Scratch
 Scratch is a programming language that lets you build games and animations.  Scratch is one of the languages we are going to learn.
 
