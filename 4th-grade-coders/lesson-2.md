@@ -40,6 +40,9 @@ We will follow the tips section for guides.
  * Bounce Around
  * Collide
  * Keep Score
+ 
+### Bonus
+ * Try to make a game that uses ALL the different modules that you learned about today.
 
 ## Review 
 Write down on your page what you learned today, and what you want to do next.
