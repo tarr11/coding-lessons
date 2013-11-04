@@ -52,4 +52,4 @@ Write down on your page what you learned today, and what you want to do next.
 If you've made it through all the challenges, go home and [explore](http://scratch.mit.edu/explore/?date=this_month) some of the programs that were made using Scratch.
 
 ## Next Week
-We are going to make our first game together!
+We are going to do some more advanced Scratch challenges together!
