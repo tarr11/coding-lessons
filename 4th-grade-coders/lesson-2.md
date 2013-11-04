@@ -8,6 +8,7 @@ Scratch is a programming language that lets you build games and animations.  Scr
  
 ## Discussion (10 minutes)
 Talk about Loops and Commands.
+
 * What is a command?  "do this"
 * What is a loop? "Keep doing this until I say stop"
 * What is a program? "Do this, then that, and then keep doing this until i say stop"
