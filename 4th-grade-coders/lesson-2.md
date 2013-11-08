@@ -24,26 +24,22 @@ We are going to go through the first tutorial together.  Then, we are going to w
 We will follow the tips section for guides.
 
 ### Challenge 1 - Getting Started
-[Getting Started](http://scratch.mit.edu/projects/editor/?tip_bar=getStarted)
+Click here to launch the Tutorial [Getting Started](http://scratch.mit.edu/projects/editor/?tip_bar=getStarted)
 
-### Challenge 2 - Effects
- * Play with Effects
- * Create Interactive Effects
- * Interact with Microphone
+We are going to follow through the [Getting Started Guide](http://cdn.scratch.mit.edu/scratchr2/static/__1383932368__//pdfs/help/Getting-Started-Guide-Scratch2.pdf)
 
-### Challenge 3 - Animations
- * Switch from happy to sad
- * Make a sprite talk
- * Make a sprite walk
-
-### Challenge 4 - Games
- * Use arrow keys to move around
- * Bounce Around
- * Collide
- * Keep Score
+ * Start Moving
+ * Add A Sound
+ * Make a Dance
+ * Again and Again
+ * Say Something
+ * Green Flag
+ * Change Color
+ * Key Press
+ * Change Backdrop
+ * Add A Sprite
  
-### Bonus
- * Try to make a game that uses ALL the different modules that you learned about today.
+Each of these lessons take about 5 minutes each.  Get as far as you can.
 
 ## Review 
 Write down on your page what you learned today, and what you want to do next.
