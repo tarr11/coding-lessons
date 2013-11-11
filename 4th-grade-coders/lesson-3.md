@@ -4,7 +4,7 @@
 We are going to learn how to make our own characters using the painting and drawing tools in Scratch.
 
 ## Watch This!
-http://www.youtube.com/watch?v=k2xYSCNysS0
+[http://www.youtube.com/watch?v=k2xYSCNysS0](http://www.youtube.com/watch?v=k2xYSCNysS0)
 
 ## What is painting and drawing?
 Painting (bitmap) uses pixels.
