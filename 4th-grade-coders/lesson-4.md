@@ -1,7 +1,7 @@
 # #4 - Making a story
 
 ## Watch this!
-[Unity 3D Timelapse)[http://www.youtube.com/watch?v=Z2ZX9soqOz4]
+[Unity 3D Timelapse][http://www.youtube.com/watch?v=Z2ZX9soqOz4]
 
 ## Lesson: 
 We are going to work together in teams to build a story together, using the skills we've learned.
