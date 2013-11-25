@@ -1,7 +1,7 @@
 # #5 - Designing your own game
 
 ## Watch this
-http://www.youtube.com/watch?v=HcMm6TJoYL0
+http://www.youtube.com/watch?v=AkFi90lZmXA
 
 ## Lesson: 
 This week we are going to learn about variables and lists and create a simple game
