@@ -1,5 +1,8 @@
 # #7 - Building your game
 
+## Watch this!
+[President Obama](https://www.youtube.com/watch?v=6XvmhE1J9PY)
+
 ## Lesson: 
 This week, we are going to focus on building our game, using the techniques we learned in the last game.
 
