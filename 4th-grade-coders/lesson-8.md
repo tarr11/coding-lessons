@@ -1,14 +1,18 @@
 # #8 - Finishing your game
 
 ## Lesson: 
+This week, let's show off our games
 
 ## Coding
+This week, we are going to demo our games and animations.
 
 ## Review 
-Write down on your page what you learned today, and what you want to do next.
+Let's talk about coding and what we learned.  Also, what we want to learn next time.
 
 ## Homework
+None!
 
 ## Next Week
+None!
 
 
