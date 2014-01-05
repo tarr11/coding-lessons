@@ -9,12 +9,6 @@ Check out [4th-grade-coding](https://github.com/tarr11/coding-lessons/tree/maste
 
 I am also blogging about the actual class experience on [my personal website](http://douglastarr.com/mvcoders.html)
 
-## CodeClub Software
-
-This project is designed to work with the software (MIT Licensed) I am building at https://github.com/tarr11/codeclub	
-
-You can just view the class info right here, and it should be fine too.   My thought is that if you create your own curricula, you can then just pull it into the codeclub software and use it instantly for your class.  That doesn't exist yet, but it's the idea.    Curricula is just going to be markdown and maybe media assets, so if you want to use it somewhere else, that's cool too.
-
 ## MIT License
 You are welcome to use, copy, fork, these lessons.  
 
