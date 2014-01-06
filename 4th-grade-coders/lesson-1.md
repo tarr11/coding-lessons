@@ -3,6 +3,9 @@
 ## Overview
 The goal of this class is to get everyone to understand what programming is, what they want to do with it, and why it could be fun.  We'd like to spend most of the class actually writing code.
 
+## Watch this!
+[What most schools don't teach](https://www.youtube.com/watch?v=nKIu9yen5nc&feature=c4-overview-vl&list=PLzdnOPI1iJNe1WmdkMG-Ca8cLQpdEAL7Q)
+
 ## Setup (10 Minutes)
 * Get wifi working, Chrome installed
 * Go to [MVCoders Website](http://mvcodeclub.azurewebsites.net) and log in
