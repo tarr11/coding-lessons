@@ -21,10 +21,11 @@ Things we're going to learn to make a platformer:
 
 
 ## Lesson
-Step 1 - Make a character and several platforms.  Platforms should be the same colors
-Step 2 - Use the space bar to make your character jump (simple)
-Step 3 - Introduce gravity so that your character falls
-Step 4 - Introduce velocity and acceleration so that he doesn't jump at the same speed
+1 - Make a character and several platforms.  Platforms should be the same colors
+2 - Use the space bar to make your character jump (simple)
+3 - Introduce gravity so that your character falls
+4 - Introduce velocity and acceleration so that he doesn't jump at the same speed
+
 
 ## Review
 
