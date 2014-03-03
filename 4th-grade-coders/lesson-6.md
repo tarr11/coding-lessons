@@ -9,14 +9,14 @@ We're going to learn how to use variables and clones to shoot the penguin
 
 
 ## Coding
-* Create a gun
-* Create a bullet
+* Create a snowball shooter
+* Create a snowball
 * Create a penguin (alive and dead costumes)
 
 ### Shoot a bullet
-When space bar is pressed, clone a bullet.
+When space bar is pressed, clone a snowball.
 When a new clone comes out, make it move until it hits the penguin or the side
-If the bullet touches the penguin, make the penguin dead
+If the bullet touches the penguin, make the penguin hit with the snowball
 
 ### Point it with variables
 How do we point the bullet in the direction we want to go?
