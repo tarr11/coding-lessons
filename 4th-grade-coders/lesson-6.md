@@ -5,7 +5,7 @@
 [Minecraft Physics](http://youtu.be/o702In0aI5E)
 
 ## Lesson: 
-We're going to learn how to use variables and clones to shoot the penguin
+We're going to learn how to use variables and clones to shoot the penguin with a snowball
 
 
 ## Coding
