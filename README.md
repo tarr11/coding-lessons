@@ -1,5 +1,5 @@
 ### UPDATE
-We've created a lot of lessons for teaching coding at [MV Code Club](https://www.mvcodeclub.com/lessons)  You are welcome to use these lessons for personal use for no cost.  I wasn't happy with just using markdown, it didn't provide enough expressiveness, so we built our own website and tool for this.
+We've created a lot of lessons for teaching coding at [MV Code Club](https://www.mvcodeclub.com/lessons)  You are welcome to use these lessons for [personal use](https://www.mvcodeclub.com/content-license) for no cost.  I wasn't happy with just using markdown, it didn't provide enough expressiveness, so we built our own website and tool for this.
 
 
 Coding Lessons
